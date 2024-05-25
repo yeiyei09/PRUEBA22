@@ -4,5 +4,6 @@ public class pruebaDeVisual {
         PruebaDeClase prueba = new PruebaDeClase();
         System.out.println(".()");
         System.out.println("Este es parte del nuevo archivo");
+        System.out.println("Este es el repositorio clonado");
     }
 }
